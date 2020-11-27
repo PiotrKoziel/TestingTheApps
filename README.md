@@ -5,5 +5,5 @@ view lines of code generates login and atm applications created for testing purp
 	
 ## Technologies
 test ase created with:
-* JAVA
+* Java
 * BDD
